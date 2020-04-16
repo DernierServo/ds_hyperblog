@@ -3,4 +3,6 @@ Hola,
 Mi nombre es Juan Perez, y tengo 23 anhos. Y nací en Chile!
 Esta es mi historia. 
 
+En cámara se ve alto, pero la verdad no es tan alto.
+
 adiós.
