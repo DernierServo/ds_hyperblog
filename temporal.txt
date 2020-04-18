@@ -1,0 +1,3 @@
+Este archivo será eliminado, 
+porque no sirve para nada.
+Solo está aquí de manera experimental para aprender a recuperar cambios en el staging
